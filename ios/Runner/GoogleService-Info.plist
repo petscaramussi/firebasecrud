@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>346950823680-p7pnmae7vr3mpt0ngg8vbjqdb9vk4kuq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.346950823680-p7pnmae7vr3mpt0ngg8vbjqdb9vk4kuq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKvl6uk9Gl3JVEpdJxHDQOI1j1yUAM0_g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>346950823680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firecrud</string>
+	<key>PROJECT_ID</key>
+	<string>myfluttercollege-c35f9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myfluttercollege-c35f9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:346950823680:ios:aaa8036fd1c6f869530de5</string>
+	<key>DATABASE_URL</key>
+	<string>https://myfluttercollege-c35f9.firebaseio.com</string>
+</dict>
+</plist>
